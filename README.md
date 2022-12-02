@@ -1,4 +1,4 @@
-# ElPriceCalc
+# Sähkön hinta vertailu
 1. Lataa Fingridin Datahubista haluamaltasi väliltä kulutuslukemat .csv muodossa
 2. Lataa sahko.tk sivuilta tuntikohtaiset hintalukemat haluamaltasi aikaväliltä .csv muodossa
 3. Sisällytä samaan kansioon molemmat tiedostot ja laskuriV2.py tiedosto.
